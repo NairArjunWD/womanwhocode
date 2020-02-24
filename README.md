@@ -11,7 +11,8 @@ Filter that randomly selects a coding superpower related to a language Gives use
 Challenges I ran into This was the first time we have used Spark AR Studio. Much of our morning was spent familiarizing ourselves with the interface and the logic required to build animations and layers.
 
 ## Accomplishments that I'm proud of
-What I learned Sometimes documentation cannot be updated as fast as the actual application itself. We had to experiment to figure out new features in the current version of Spark AR.
+What I learned is that sometimes documentation cannot be updated as fast as the actual application itself. We had to experiment to figure out new features in the current version of Spark AR.
 
 ## What's next for WomanWhoCodes
-Implement changing tiaras and sparkles! Custom animations for facial expression
+- Implement changing tiaras and sparkles! 
+- Custom animations for facial expression
