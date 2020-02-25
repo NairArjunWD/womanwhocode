@@ -1,5 +1,6 @@
 # WomanWhoCodes
 Spark AR Application to inspire women who code by making them feel magical
+
 ![Spark AR Image](https://static.sketchfab.com/static/builds/web/dist/static/assets/images/pages/importers/spark-ar-studio@2x-e022f28e07a811b8b53242937f0b32df.png)
 
 ## Inspiration
