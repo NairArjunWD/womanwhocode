@@ -7,7 +7,7 @@ Spark AR Application to inspire women who code by making them feel magical
 There was a sample application that looped through and randomly assigned users a programming language to appear over their head! We want to remind women that they are awesome pursuing technology careers, no matter what language they like. Pretty Guardian Sailor Moon!
 
 ## What it does
-Filter that randomly selects a coding superpower related to a language Gives user a Tiara!
+Filter that randomly selects a coding superpower related to a language. Once chosen, gives user a Tiara!
 
 ## How I built it
 Challenges I ran into This was the first time we have used Spark AR Studio. Much of our morning was spent familiarizing ourselves with the interface and the logic required to build animations and layers.
