@@ -3,6 +3,8 @@ Spark AR Application to inspire women who code by making them feel magical
 
 ![Spark AR Image](https://static.sketchfab.com/static/builds/web/dist/static/assets/images/pages/importers/spark-ar-studio@2x-e022f28e07a811b8b53242937f0b32df.png)
 
+https://devpost.com/software/womanwhocodes/
+
 ## Inspiration
 There was a sample application that looped through and randomly assigned users a programming language to appear over their head! We want to remind women that they are awesome pursuing technology careers, no matter what language they like. Pretty Guardian Sailor Moon!
 
